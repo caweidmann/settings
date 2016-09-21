@@ -1,0 +1,24 @@
+// Place your settings in this file to overwrite the default settings
+
+// When window.zoomLevel = 0, then:
+// "editor.fontSize": 10.5
+// "editor.lineHeight": 18
+
+// When window.zoomLevel = -0.5, then:
+// "editor.fontSize": 11
+// "editor.lineHeight": 20
+
+{
+  "editor.fontSize": 10.5,
+  "editor.lineHeight": 18,
+  "editor.tabSize": 2,
+  "editor.roundedSelection": false,
+  "editor.wrappingColumn": -1,
+  "editor.renderIndentGuides": true,
+  "explorer.openEditors.visible": 0,
+  "window.zoomLevel": 0,
+  "window.reopenFolders": "all",
+  "editor.autoClosingBrackets": false,
+  "files.trimTrailingWhitespace": true,
+  "diffEditor.renderSideBySide": false
+}
