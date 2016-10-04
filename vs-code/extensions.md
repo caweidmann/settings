@@ -4,6 +4,7 @@ Project Manager - Alessandro Fragnani
 Path Intellisense - Christian Kohler  
 ESLint - Dirk Baeumer  
 Debugger for Chrome - Microsoft  
+stylelint - Shinnosuke Watanabe  
 
 ###Themes:
 Material Icon Theme - Philipp Kief  
