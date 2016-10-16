@@ -17,4 +17,4 @@ Add the following to the very bottom of the file:
 
     colorscheme 256-grayvim
 
-Save and exit. Next time you open any file with vim the colour theme should be applied.
+Save and exit. Next time you open any file with vim the colour scheme should be applied.
