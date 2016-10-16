@@ -7,7 +7,7 @@ vim
 
 Make sure that the `256-grayvim.vim` file ends up in the following directory (you’ll need to be root):
 
-    /usr/share/vim/vimXX/colors/ -  where XX is the vim version, e.g. 71, 73, or 74
+    /usr/share/vim/vimXX/colors/ - where XX is the vim version, e.g. 71, 73, or 74
 
 Then add the colour scheme as default for all users:
 
