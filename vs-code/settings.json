@@ -1,16 +1,37 @@
-// Place your settings in this file to overwrite the default settings
+Place your settings in this file to overwrite the default settings
+
+// When window.zoomLevel = 0, then:
+// "editor.fontSize": 10.5
+// "editor.lineHeight": 18
+
+// When window.zoomLevel = -0.5, then:
+// "editor.fontSize": 11
+// "editor.lineHeight": 20
+
+// Ligature fonts
+// Fira Code = 10.5
+// Monoid = 9
+
+// Standard fonts
+// Hack = 10.5
+// Input Mono = 10.5
+// Mononoki = 10.5
+// Office Code Pro = 10.5
+// Code New Roman = 10.5
 
 {
-  "editor.fontSize": 10.5,
-  "editor.lineHeight": 18,
-  "editor.tabSize": 2,
-  "editor.roundedSelection": false,
-  "editor.wrappingColumn": -1,
-  "editor.renderIndentGuides": true,
-  "explorer.openEditors.visible": 0,
-  "window.zoomLevel": 0,
-  "window.reopenFolders": "all",
-  "editor.autoClosingBrackets": false,
-  "files.trimTrailingWhitespace": true,
-  "diffEditor.renderSideBySide": false
+    "editor.fontSize": 10.5,
+    "editor.lineHeight": 18,
+    "editor.tabSize": 2,
+    "editor.roundedSelection": false,
+    "editor.wrappingColumn": -1,
+    "editor.renderIndentGuides": true,
+    "explorer.openEditors.visible": 0,
+    "window.zoomLevel": 0,
+    "window.reopenFolders": "all",
+    "editor.autoClosingBrackets": false,
+    "files.trimTrailingWhitespace": true,
+    "diffEditor.renderSideBySide": false,
+    // "editor.fontLigatures": true,
+    // "editor.fontFamily": "Fira Code" // Code New Roman, Hack, Input Mono
 }
