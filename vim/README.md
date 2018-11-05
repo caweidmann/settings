@@ -1,7 +1,7 @@
 vim
 ===
 
-This is a guide for installing a theme for vim across the OS.
+This is a guide on how to install a  vim theme for all users.
 
 ## How to install
 
