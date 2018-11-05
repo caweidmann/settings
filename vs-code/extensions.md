@@ -1,18 +1,23 @@
 ### Essentials:
 
+* Prettier - Code formatter - Esben Petersen
 * EditorConfig for VS Code - EditorConfig
+* ESLint - Dirk Baeumer
+* stylelint - Shinnosuke Watanabe
+* Table Formatter - Shuzo Iwasaki
 * Project Manager - Alessandro Fragnani
 * Path Intellisense - Christian Kohler
 * npm intellisense - Christian Kohler
-* ESLint - Dirk Baeumer
 * Debugger for Chrome - Microsoft
-* stylelint - Shinnosuke Watanabe
+* Wrap Console Log - midnightsyntax
 
 
 ### Non-essentials (dependant on project type)
 
 * Gherkin Indent - Aravind Kumar
+* Cucumber (Gherkin) Full Support - Alexander Krechik
 * HTML Snippets - Mohamed Abusaid
+* Code Runner - Jun Han
 
 
 ### Themes:
