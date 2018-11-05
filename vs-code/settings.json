@@ -1,38 +1,64 @@
-Place your settings in this file to overwrite the default settings
-
+// Place your settings in this file to overwrite the default settings
 // When window.zoomLevel = 0, then:
 // "editor.fontSize": 10.5
 // "editor.lineHeight": 18
-
 // When window.zoomLevel = -0.5, then:
 // "editor.fontSize": 11
 // "editor.lineHeight": 20
-
 // Ligature fonts
 // Fira Code = 10.5
 // Monoid = 9
-
 // Standard fonts
 // Hack = 10.5
 // Input Mono = 10.5
 // Mononoki = 10.5
 // Office Code Pro = 10.5
 // Code New Roman = 10.5
-
 {
+    "search.useIgnoreFiles": false,
     "editor.fontSize": 10.5,
     "editor.lineHeight": 18,
     "editor.tabSize": 2,
     "editor.roundedSelection": false,
-    "editor.wrappingColumn": -1,
     "editor.renderIndentGuides": true,
+    "editor.minimap.enabled": false,
     "explorer.openEditors.visible": 0,
     "window.zoomLevel": 0,
-    "window.reopenFolders": "all",
     "editor.autoClosingBrackets": false,
+    "editor.find.seedSearchStringFromSelection": false,
+    "editor.formatOnSave": true, // here
     "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
     "diffEditor.renderSideBySide": false,
-    "eslint.autoFixOnSave": true,
+    "workbench.colorTheme": "Tomorrow",
+    "workbench.iconTheme": "vscode-icons",
+    "prettier.requireConfig": true,
+    // "workbench.fontAliasing": "antialiased",
+    "vsicons.projectDetection.autoReload": true,
+    "material-icon-theme.showWelcomeMessage": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    "material-icon-theme.showUpdateMessage": false,
+    "editor.acceptSuggestionOnEnter": "smart",
+    "explorer.confirmDelete": false,
+    // "eslint.autoFixOnSave": true,
     // "editor.fontLigatures": true,
-    // "editor.fontFamily": "Fira Code" // Code New Roman, Hack, Input Mono
-}
+    // "editor.fontFamily": "Fira Code", // Code New Roman, Hack, Input Mono
+    "[handlebars]": {
+      "editor.formatOnSave": false
+    },
+    "[html]": {
+      "editor.formatOnSave": false
+    },
+    "[markdown]": {
+      "editor.formatOnSave": false
+    },
+    "explorer.confirmDragAndDrop": false,
+    "javascript.suggest.autoImports": false,
+    "typescript.suggest.autoImports": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    // "[javascript]": {
+    //   "editor.codeActionsOnSave": {
+    //     "source.organizeImports": true
+    //   }
+    // },
+  }
