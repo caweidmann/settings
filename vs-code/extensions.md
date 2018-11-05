@@ -1,4 +1,5 @@
-###Essentials:
+### Essentials:
+
 EditorConfig for VS Code - EditorConfig
 Project Manager - Alessandro Fragnani
 Path Intellisense - Christian Kohler
@@ -7,11 +8,15 @@ ESLint - Dirk Baeumer
 Debugger for Chrome - Microsoft
 stylelint - Shinnosuke Watanabe
 
-###Non-essentials (dependant on project type)
+
+### Non-essentials (dependant on project type)
+
 Gherkin Indent - Aravind Kumar
 HTML Snippets - Mohamed Abusaid
 
-###Themes:
+
+### Themes:
+
 Tomorrow and Tomorrow Night Theme Kit - Microsoft (current)
 Dreamweaver Web Theme - Persephona
 One Dark Theme - Mahmoud Ali
@@ -21,7 +26,9 @@ LCY Theme - xaver
 Material-theme - zhuangtongfa
 Atom One Dark Theme - Mahmoud Ali
 
-###Icon themes:
+
+### Icon themes:
+
 seti-icons - qinjia
 vscode-icons - Roberto Huertas (current)
 Material Icon Theme - Philipp Klef
