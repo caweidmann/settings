@@ -22,6 +22,10 @@ Remove user name:
 Create SSH key:
 
     ssh-keygen -t rsa -C "your_email@example.com"
+
+Copy SSH key:
+
+    pbcopy < ~/.ssh/id_rsa.pub
     
 Things to remember:
 - Allow unlimited scroll back lines
