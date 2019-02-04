@@ -18,6 +18,7 @@
 * Cucumber (Gherkin) Full Support - Alexander Krechik
 * HTML Snippets - Mohamed Abusaid
 * Code Runner - Jun Han
+* Vetur - Pine Wu
 
 
 ### Themes:
