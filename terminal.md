@@ -13,6 +13,8 @@ To install custom theme:
 
 https://medium.freecodecamp.org/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38
 
+_Select "Tango Dark" theme for a quick good looking colour preset._
+
 Remove user name:
 
     code ~./zshrc
