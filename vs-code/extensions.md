@@ -1,6 +1,7 @@
 ### Essentials:
 
 * Prettier - Code formatter - Esben Petersen
+* Formatting Toggle - tombonnike
 * EditorConfig for VS Code - EditorConfig
 * ESLint - Dirk Baeumer
 * stylelint - Shinnosuke Watanabe
