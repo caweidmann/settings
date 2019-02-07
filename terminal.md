@@ -13,7 +13,7 @@ To install custom theme:
 
 https://medium.freecodecamp.org/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38
 
-_Select "Tango Dark" theme for a quick good looking colour preset._
+_"Tango Dark" preset. Cursor hex = a9e8e8. Foreground hex = 7eb1b1._
 
 Remove user name:
 
