@@ -16,8 +16,8 @@
 // Code New Roman = 10.5
 {
     "search.useIgnoreFiles": false,
-    "editor.fontSize": 10.5,
-    "editor.lineHeight": 18,
+    "editor.fontSize": 11.5,
+    "editor.lineHeight": 20,
     "editor.tabSize": 2,
     "editor.roundedSelection": false,
     "editor.renderIndentGuides": true,
@@ -56,6 +56,18 @@
     "javascript.suggest.autoImports": false,
     "typescript.suggest.autoImports": false,
     "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "prettier.eslintIntegration": true,
+    "prettier.semi": false,
+    "prettier.singleQuote": true,
+    "prettier.stylelintIntegration": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": false,
+    "emment.includeLanguages": {
+      "vue-html": "html",
+      "javascript": "javascriptreact"
+    },
+    "emmet.triggerExpansionOnTab": true,
     // "[javascript]": {
     //   "editor.codeActionsOnSave": {
     //     "source.organizeImports": true
