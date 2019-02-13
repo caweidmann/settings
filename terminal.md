@@ -3,6 +3,8 @@ Terminal
 
 ### _For Windows with WSL:_
 
+https://github.com/lloydstubber/my-wsl-setup#fix-the-ls-and-cd-colours
+
 https://medium.com/@ssharizal/hyper-js-oh-my-zsh-as-ubuntu-on-windows-wsl-terminal-8bf577cdbd97
 
 ### _For Mac_
