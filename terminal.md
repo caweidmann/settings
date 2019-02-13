@@ -21,12 +21,9 @@ Change auto suggestsion colour manaully in ~/.zshrc:
 
     git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 
-Add the plugin to plugins list:
-
-    code ~./zshrc
+    vim ~./zshrc
     
-Add the following line to the rc file:
-
+    # Add the following line to the rc file:
     plugins=(zsh-autosuggestions)
 
 More info: https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md
