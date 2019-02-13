@@ -36,7 +36,7 @@ _"Tango Dark" preset. Cursor hex = a9e8e8. Foreground hex = 7eb1b1._
 
 #### Remove user name:
 
-    code ~./zshrc
+    vim ~./zshrc
 
     # Add the following line
     DEFAULT_USER=$USER
