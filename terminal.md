@@ -3,11 +3,7 @@ Terminal
 
 ### _For Windows with WSL:_
 
-Install zsh:
-
-    sudo apt-get install zsh
-
-Then follow steps for Mac below.
+https://medium.com/@ssharizal/hyper-js-oh-my-zsh-as-ubuntu-on-windows-wsl-terminal-8bf577cdbd97
 
 ### _For Mac_
 
@@ -27,7 +23,7 @@ Add the following line to the rc file:
 
     plugins=(zsh-autosuggestions)
 
-https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md
+More info: https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md
 
 #### Install custom theme
 
