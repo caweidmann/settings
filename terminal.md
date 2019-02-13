@@ -1,6 +1,16 @@
 Terminal
 ========
 
+### _For Windows with WSL:_
+
+Install zsh:
+
+    sudo apt-get install zsh
+
+Then follow steps for Mac below.
+
+### _For Mac_
+
 Install oh my zsh:
 
     sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
