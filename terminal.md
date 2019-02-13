@@ -19,14 +19,14 @@ Change auto suggestsion colour manaully in ~/.zshrc:
 
 #### Install auto suggestions
 
+From https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md, boils down to:
+
     git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 
     vim ~./zshrc
     
-    # Add the following line to the rc file:
+    # Add the following line 
     plugins=(zsh-autosuggestions)
-
-More info: https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md
 
 #### Install custom theme
 
@@ -38,8 +38,7 @@ _"Tango Dark" preset. Cursor hex = a9e8e8. Foreground hex = 7eb1b1._
 
     code ~./zshrc
 
-Add the following line to the rc file:
-
+    # Add the following line
     DEFAULT_USER=$USER
 
 ### _Other_
