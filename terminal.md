@@ -49,6 +49,10 @@ _"Tango Dark" preset. Cursor hex = a9e8e8. Foreground hex = 7eb1b1._
 
 ### _Other_
 
+Show git branches inline:
+
+    git config --global pager.branch 'false'
+
 Create SSH key:
 
     ssh-keygen -t rsa -C "your_email@example.com"
