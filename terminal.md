@@ -11,6 +11,12 @@ Change auto suggestsion colour manaully in ~/.zshrc:
 
     ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=5'
 
+Only fonts that worked for me were:
+- DejaVu Sans Mono for Powerline
+- Droid Sans Mono Dotted for Powerline
+- Droid Sans Mono Slashed for Powerline
+- Go Mono for Powerline
+
 ### _For Mac_
 
 #### Install oh my zsh
