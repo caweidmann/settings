@@ -30,6 +30,8 @@ From https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md, bo
     git clone https://github.com/powerline/fonts.git
     cd fonts
     ./install.sh
+    cd ..
+    rm -rf fonts
     
     # Change the theme
     code ~/.zshrc
