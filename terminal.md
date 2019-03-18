@@ -24,7 +24,6 @@ From https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md, bo
     # Add the following line or extend plugins with
     plugins=(zsh-autosuggestions)
 
-
 #### Install syntax highlighting
 
     git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
@@ -33,8 +32,6 @@ From https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md, bo
     
     # Add the following line or extend plugins with
     plugins=(zsh-syntax-highlighting)
-
-
 
 #### Install custom theme
 
@@ -70,12 +67,20 @@ From https://medium.freecodecamp.org/jazz-up-your-zsh-terminal-in-seven-steps-a-
     1. Open iTerm2 > Preferences > Profiles > Terminal
     1. Select checkbox "Unlimited scrollback"
 
-#### Remove user name:
+#### Remove user name
 
     code ~/.zshrc
 
     # Add the following line
     DEFAULT_USER=$USER
+
+#### Only show local git branches
+
+
+    code ~/.zshrc
+
+    # Add the following line
+    GIT_COMPLETION_CHECKOUT_NO_GUESS=1
 
 ### _Other_
 
