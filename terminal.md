@@ -82,17 +82,15 @@ From https://medium.freecodecamp.org/jazz-up-your-zsh-terminal-in-seven-steps-a-
     # Add the following line
     GIT_COMPLETION_CHECKOUT_NO_GUESS=1
 
-### _Other_
-
-Show git branches inline:
+#### Show git branches inline
 
     git config --global pager.branch 'false'
 
-Create SSH key:
+#### Create SSH key
 
     ssh-keygen -t rsa -C "your_email@example.com"
 
-Copy SSH key:
+#### Copy SSH key
 
     pbcopy < ~/.ssh/id_rsa.pub
 
