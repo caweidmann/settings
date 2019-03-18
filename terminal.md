@@ -45,7 +45,16 @@ From https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md, bo
 
     # Change font
     1. Open iTerm2 > Preferences > Profiles > Text > Change Font
-    2. Select a Powerline font
+    2. Select "Meslo LG S for Powerline" font
+    
+    # Change background image
+    1. Open iTerm2 > Preferences > Profiles > Window
+    2. Select current Desktop background from Library > Desktop Pictures > El Capitan 2
+    3. Reduce blending
+    
+    # Unlimited scrollback
+    1. Open iTerm2 > Preferences > Profiles > Terminal
+    1. Select checkbox "Unlimited scrollback"
 
 https://medium.freecodecamp.org/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38
 
@@ -69,9 +78,6 @@ Create SSH key:
 Copy SSH key:
 
     pbcopy < ~/.ssh/id_rsa.pub
-    
-Things to configure/remember:
-- Allow unlimited scroll back lines
 
 
 ### _For Windows with WSL:_
