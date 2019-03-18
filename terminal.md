@@ -26,6 +26,15 @@ From https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md, bo
 
 #### Install custom theme
 
+    # Install fonts for theme
+    git clone https://github.com/powerline/fonts.git
+    cd fonts
+    ./install.sh
+    
+    # Change the theme
+    code ~/.zshrc
+    ZSH_THEME="agnoster"
+
 https://medium.freecodecamp.org/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38
 
 _"Tango Dark" preset. Cursor hex = a9e8e8. Foreground hex = 7eb1b1._
