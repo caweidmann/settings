@@ -13,7 +13,7 @@ From https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md, bo
 
     git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 
-    vim ~./zshrc
+    vim ~/.zshrc
     
     # Add the following line 
     plugins=(zsh-autosuggestions)
@@ -26,7 +26,7 @@ _"Tango Dark" preset. Cursor hex = a9e8e8. Foreground hex = 7eb1b1._
 
 #### Remove user name:
 
-    vim ~./zshrc
+    vim ~/.zshrc
 
     # Add the following line
     DEFAULT_USER=$USER
