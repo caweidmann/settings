@@ -1,22 +1,6 @@
 Terminal
 ========
 
-### _For Windows with WSL:_
-
-https://github.com/lloydstubber/my-wsl-setup
-
-https://medium.com/@ssharizal/hyper-js-oh-my-zsh-as-ubuntu-on-windows-wsl-terminal-8bf577cdbd97
-
-Change auto suggestsion colour manaully in ~/.zshrc:
-
-    ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=5'
-
-Only fonts that worked for me were:
-- DejaVu Sans Mono for Powerline
-- Droid Sans Mono Dotted for Powerline
-- Droid Sans Mono Slashed for Powerline
-- Go Mono for Powerline
-
 ### _For Mac_
 
 #### Install oh my zsh
@@ -63,3 +47,20 @@ Copy SSH key:
     
 Things to configure/remember:
 - Allow unlimited scroll back lines
+
+
+### _For Windows with WSL:_
+
+https://github.com/lloydstubber/my-wsl-setup
+
+https://medium.com/@ssharizal/hyper-js-oh-my-zsh-as-ubuntu-on-windows-wsl-terminal-8bf577cdbd97
+
+Change auto suggestsion colour manaully in ~/.zshrc:
+
+    ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=5'
+
+Only fonts that worked for me were:
+- DejaVu Sans Mono for Powerline
+- Droid Sans Mono Dotted for Powerline
+- Droid Sans Mono Slashed for Powerline
+- Go Mono for Powerline
