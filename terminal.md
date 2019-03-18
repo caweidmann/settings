@@ -1,11 +1,13 @@
 Terminal
 ========
 
-### _For Mac_
-
 #### Add VS Code to terminal
 
 https://code.visualstudio.com/docs/setup/mac
+
+#### Install homebrew
+
+    ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 #### Install oh my zsh
 
