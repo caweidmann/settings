@@ -3,6 +3,10 @@ Terminal
 
 ### _For Mac_
 
+#### Add VS Code to terminal
+
+https://code.visualstudio.com/docs/setup/mac
+
 #### Install oh my zsh
 
     sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
