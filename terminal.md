@@ -21,10 +21,24 @@ From https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md, bo
 
     code ~/.zshrc
     
-    # Add the following line 
+    # Add the following line or extend plugins with
     plugins=(zsh-autosuggestions)
 
+
+#### Install syntax highlighting
+
+    git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+
+    code ~/.zshrc
+    
+    # Add the following line or extend plugins with
+    plugins=(zsh-syntax-highlighting)
+
+
+
 #### Install custom theme
+
+From https://medium.freecodecamp.org/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38, boils down to:
 
     # Install fonts for theme
     git clone https://github.com/powerline/fonts.git
@@ -55,8 +69,6 @@ From https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md, bo
     # Unlimited scrollback
     1. Open iTerm2 > Preferences > Profiles > Terminal
     1. Select checkbox "Unlimited scrollback"
-
-https://medium.freecodecamp.org/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38
 
 #### Remove user name:
 
