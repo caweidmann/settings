@@ -39,6 +39,7 @@
     "vsicons.dontShowNewVersionMessage": true,
     "material-icon-theme.showUpdateMessage": false,
     "editor.acceptSuggestionOnEnter": "smart",
+    "editor.quickSuggestions": false,
     "explorer.confirmDelete": false,
     // "eslint.autoFixOnSave": true,
     // "editor.fontLigatures": true,
@@ -73,4 +74,4 @@
     //     "source.organizeImports": true
     //   }
     // },
-  }
+}
