@@ -15,7 +15,6 @@
 // Office Code Pro = 10.5
 // Code New Roman = 10.5
 {
-    "search.useIgnoreFiles": false,
     "editor.fontSize": 11.5,
     "editor.lineHeight": 20,
     "editor.tabSize": 2,
@@ -24,7 +23,7 @@
     "editor.minimap.enabled": false,
     "explorer.openEditors.visible": 0,
     "window.zoomLevel": 0,
-    "editor.autoClosingBrackets": false,
+    "editor.autoClosingBrackets": "never",
     "editor.find.seedSearchStringFromSelection": false,
     "editor.formatOnSave": true, // here
     "files.trimTrailingWhitespace": true,
@@ -35,9 +34,7 @@
     "prettier.requireConfig": true,
     // "workbench.fontAliasing": "antialiased",
     "vsicons.projectDetection.autoReload": true,
-    "material-icon-theme.showWelcomeMessage": false,
     "vsicons.dontShowNewVersionMessage": true,
-    "material-icon-theme.showUpdateMessage": false,
     "editor.acceptSuggestionOnEnter": "smart",
     "editor.quickSuggestions": false,
     "explorer.confirmDelete": false,
@@ -69,6 +66,7 @@
       "javascript": "javascriptreact"
     },
     "emmet.triggerExpansionOnTab": true,
+    "search.useGlobalIgnoreFiles": true,
     // "[javascript]": {
     //   "editor.codeActionsOnSave": {
     //     "source.organizeImports": true
