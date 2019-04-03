@@ -23,7 +23,7 @@
     "editor.minimap.enabled": false,
     "explorer.openEditors.visible": 0,
     "window.zoomLevel": 0,
-    "editor.autoClosingBrackets": "never",
+    "editor.autoClosingBrackets": false,
     "editor.find.seedSearchStringFromSelection": false,
     "editor.formatOnSave": true, // here
     "files.trimTrailingWhitespace": true,
