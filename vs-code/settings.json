@@ -25,16 +25,14 @@
     "window.zoomLevel": 0,
     "editor.autoClosingBrackets": false,
     "editor.find.seedSearchStringFromSelection": false,
+    "editor.formatOnPaste": false, // here
     "editor.formatOnSave": true, // here
     "files.trimTrailingWhitespace": true,
     "files.insertFinalNewline": true,
     "diffEditor.renderSideBySide": false,
     "workbench.colorTheme": "Tomorrow",
-    "workbench.iconTheme": "vscode-icons",
     "prettier.requireConfig": true,
     // "workbench.fontAliasing": "antialiased",
-    "vsicons.projectDetection.autoReload": true,
-    "vsicons.dontShowNewVersionMessage": true,
     "editor.acceptSuggestionOnEnter": "smart",
     "editor.quickSuggestions": false,
     "explorer.confirmDelete": false,
@@ -59,7 +57,6 @@
     "prettier.semi": false,
     "prettier.singleQuote": true,
     "prettier.stylelintIntegration": true,
-    "editor.formatOnPaste": true,
     "editor.formatOnType": false,
     "emment.includeLanguages": {
       "vue-html": "html",
@@ -67,9 +64,12 @@
     },
     "emmet.triggerExpansionOnTab": true,
     "search.useGlobalIgnoreFiles": true,
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
     // "[javascript]": {
     //   "editor.codeActionsOnSave": {
     //     "source.organizeImports": true
     //   }
-    // },
+    // }
 }
