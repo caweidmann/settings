@@ -24,7 +24,7 @@
     "explorer.openEditors.visible": 0,
     "window.zoomLevel": 0,
     "editor.autoClosingBrackets": false,
-    "editor.find.seedSearchStringFromSelection": false,
+    "editor.find.seedSearchStringFromSelection": false, // here
     "editor.formatOnPaste": false, // here
     "editor.formatOnSave": true, // here
     "files.trimTrailingWhitespace": true,
@@ -43,7 +43,8 @@
       "editor.formatOnSave": false
     },
     "[html]": {
-      "editor.formatOnSave": false
+      "editor.formatOnSave": false,
+      "editor.defaultFormatter": "vscode.html-language-features"
     },
     "[markdown]": {
       "editor.formatOnSave": false
@@ -63,10 +64,10 @@
       "javascript": "javascriptreact"
     },
     "emmet.triggerExpansionOnTab": true,
-    "search.useGlobalIgnoreFiles": true,
     "[javascript]": {
       "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
+    "search.useIgnoreFiles": false,
     // "[javascript]": {
     //   "editor.codeActionsOnSave": {
     //     "source.organizeImports": true
